@@ -19,3 +19,4 @@ cinst ActivePerl
 cinst jenkins
 cinst curl
 cinst bind-toolsonly
+cinst nant
